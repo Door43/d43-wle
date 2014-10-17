@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wle:home|Door43 (wle)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wle|d43-wle repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wle/archive/master.zip|d43-wle.zip]]
+
+**Recent Changes**
+{{changes>ns = wle}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wle|Ethnologue data]]
+
